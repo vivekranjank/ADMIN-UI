@@ -1,0 +1,30 @@
+.earse {
+  color: rgb(231, 63, 63);
+}
+.modify {
+  color: rgb(187, 182, 182);
+}
+
+.icons * {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.readOnly {
+  border: none;
+  width: 80%;
+  text-overflow: ellipsis;
+}
+
+.selected {
+  background: rgb(255, 255, 255);
+}
+
+.selected input {
+  background: rgb(255, 255, 255);
+}
+
+label {
+  display: inline-block;
+  width: 100%;
+}
